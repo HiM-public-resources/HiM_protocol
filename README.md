@@ -2,11 +2,11 @@
 
 *Hi-M: Direct and simultaneous observation of transcription and chromosome architecture in single-cells*
 
-This repository contains a 'static' version of our Hi-M protocol on August 9, 2019.
+The PDF file in this repository contains a 'static' version of our Hi-M protocol on August 9, 2019.
 
-Live versions and updates to the protocol will be published regularly on this Repository.
+Live versions and updates to the protocol will be published regularly on this Repository as Markdown files.
 
-If you want to contribute, please do so by creating a pull request. When doing, ensure that your changes are incremental, otherwise revision of large number of changes in difficult to manage.
+If you want to contribute, please do so by creating a branch or a pull request. When doing so, ensure that your changes are incremental, otherwise revision of large number of changes is difficult to manage.
 
 #### More about Hi-M
 
